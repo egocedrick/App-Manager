@@ -1,4 +1,4 @@
-# ⚙️ App Manager
+# App Manager
 
 ## Overview
 An Android utility built with Kotlin for managing applications through guided dialogs and APK scanning. Designed to simplify uninstalling and reinstalling apps, the project demonstrates system-level integration and user-facing controls.  
