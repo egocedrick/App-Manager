@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
             orientation = androidx.appcompat.widget.LinearLayoutCompat.VERTICAL
         }
 
-        // Show uninstall only if app is installed
         if (isAppInstalled(targetPackage)) {
             val uninstallButton = Button(this).apply {
                 text = "Uninstall Ticketing App"

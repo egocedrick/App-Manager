@@ -15,7 +15,6 @@
             </intent-filter>
         </activity>
 
-        <!-- FileProvider for APK access -->
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="com.example.appmanager.provider"
