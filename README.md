@@ -21,7 +21,12 @@ Currently **under development**, with core features working and advanced logic i
 ## Tech Stack
 - **Language**: Kotlin  
 - **Platform**: Android SDK  
-- **System Features**: Package Manager, File I/O, Dialogs  
+- **System Features**: Package Manager, File I/O, Dialogs
+
+## Impact
+- Semi‑automatically uninstalls and reinstalls apps to clear cache.
+- Simplifies the update process by reducing manual effort from employees.
+- Ensures smoother app performance after refresh.
 
 ## Project Structure
 - `/ui` – Activities and dialogs for app management  
